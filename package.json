@@ -1,0 +1,15 @@
+{
+  "name": "bit-slide",
+  "description": "slide bits into place",
+  "version": "1.0.0",
+  "author": {
+    "name": "harry lachenmayer",
+    "email": "harrylachenmayer@gmail.com"
+  },
+  "main": "index.js",
+  "bin": "bin.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
